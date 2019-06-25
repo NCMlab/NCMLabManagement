@@ -4,6 +4,9 @@ Create a GitHub account
 Tell Stef your account name so he can invite you to the NCM Lab 
 
 Log into your new Github account. 
+
+![Logo] (https://commons.wikimedia.org/wiki/File:Octicons-mark-github.svg)
+
 Search for NCMlab
 	You may see it listed under “Users”
 	You should see that you have been invited to the lab, accept the invitation.
