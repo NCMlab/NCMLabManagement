@@ -8,6 +8,7 @@ Log into your new Github account <a href="https://github.com">
 </a>
 
 Search for NCMlab
+<img src="Figures/SearchNCMlab.png">
 	You may see it listed under “Users”
 	You should see that you have been invited to the lab, accept the invitation.
 
