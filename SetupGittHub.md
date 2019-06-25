@@ -3,9 +3,9 @@ GitHub Setup
 Create a GitHub account
 Tell Stef your account name so he can invite you to the NCM Lab 
 
-Log into your new Github account. 
-
-![Logo] (https://commons.wikimedia.org/wiki/File:Octicons-mark-github.svg)
+Log into your new Github account <a href="https://github.com">
+<img border="0" alt="GitHub" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="100" height="100">
+</a>
 
 Search for NCMlab
 	You may see it listed under “Users”
